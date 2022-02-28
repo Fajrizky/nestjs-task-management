@@ -1,6 +1,6 @@
 {
   "name": "nestjs-task-management",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Task Management with NestJS, TypeORM, postreSQL, JWT, and more",
   "author": "Fajrizky",
   "private": true,
